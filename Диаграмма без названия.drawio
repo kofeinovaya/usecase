@@ -1,67 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T18:37:50.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="F6pJBDeGAoJhAkuv_zuQ" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T19:22:43.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="_A3dFeMtv4D2F6EfgG0r" version="24.5.5" type="github">
   <diagram name="Страница — 1" id="Cd9XgTzuxfJWeo7CzWzc">
     <mxGraphModel dx="1180" dy="48" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-1" value="выбирает точку А" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-1" value="выбирает точку А" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1" y="542" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-2" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="125" y="575" as="sourcePoint" />
             <mxPoint x="199" y="575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-4" value="выбирает точку Б" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-4" value="выбирает точку Б" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="326" y="576" as="sourcePoint" />
             <mxPoint x="400" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;система загружает машины рядом и актуальные цены&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-6" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;система загружает машины рядом и актуальные цены&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="401" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="527" y="576" as="sourcePoint" />
             <mxPoint x="601" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;пользователь выбирает предпочтительный тариф&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-8" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;пользователь выбирает предпочтительный тариф&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="602" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="564" y="577" as="sourcePoint" />
             <mxPoint x="564" y="652" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-12" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="728" y="576" as="sourcePoint" />
             <mxPoint x="802" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-13" value="если не было выбрано ранее, выбирает способ оплаты" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-13" value="если не установлен, выбирает способ оплаты" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="803" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="929" y="576" as="sourcePoint" />
             <mxPoint x="1003" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-15" value="нажимает кнопку &quot;заказать&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-15" value="нажимает кнопку &quot;заказать&quot;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1004" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-16" value="пользователя не устраивает цена, он обновляет приложение/ждет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-16" value="пользователя не устраивает цена, он обновляет приложение/ждет" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="503" y="653" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-19" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;fontSize=12;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="503" y="688" as="sourcePoint" />
             <mxPoint x="363" y="577" as="targetPoint" />
@@ -71,65 +71,68 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-20" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1130" y="576" as="sourcePoint" />
             <mxPoint x="1204" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-21" value="система показывает таксиста рядом и его решение принять ли заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-21" value="система показывает таксиста рядом и его решение принять ли заказ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="545" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1267.5" y="608" as="sourcePoint" />
             <mxPoint x="1267.5" y="683" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;заказ принят, пользователь видит профиль таксиста, марку и номер машины&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;заказ принят, пользователь видит профиль таксиста, марку и номер машины&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="683" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1267.5" y="545" as="sourcePoint" />
             <mxPoint x="1267.5" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-25" value="заказ отклонен, система продолжает поиск машины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-25" value="заказ отклонен, система продолжает поиск машины" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="407" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1275" y="470" as="sourcePoint" />
             <mxPoint x="1275" y="545" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1267.5" y="746" as="sourcePoint" />
             <mxPoint x="1267.5" y="821" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-28" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;пользователь показывает водителю свое точно местонахождение и ждет прибытия, может связаться&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-28" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;пользователь показывает водителю свое точно местонахождение и ждет прибытия, может связаться&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1205" y="821" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-75" y="573" as="sourcePoint" />
             <mxPoint x="-1" y="573" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-30" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;пользователь открывает главную страницу приложения&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-30" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;пользователь открывает главную страницу приложения&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-202" y="542" width="126" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fyFo0EYJWykPPUW0JA_q-28" target="fyFo0EYJWykPPUW0JA_q-36">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fyFo0EYJWykPPUW0JA_q-28" target="fyFo0EYJWykPPUW0JA_q-36" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1205" y="857" as="sourcePoint" />
             <mxPoint x="1134" y="857" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fyFo0EYJWykPPUW0JA_q-36" value="пользователь садится в машину и поездка началась" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fyFo0EYJWykPPUW0JA_q-36" value="пользователь садится в машину и поездка началась" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1004" y="821" width="126" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="_IZnCGz4n4TuQj3b0mH3-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;заказ принят, пользователь видит профиль таксиста, марку, цвет и номер машины&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1205" y="683" width="126" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
